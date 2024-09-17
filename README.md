@@ -1,20 +1,21 @@
-LivrariaAPI
+<h1 align="center"> LIVRARIA API </h1>
 Uma API para gerenciar uma livraria online. Permite criar, visualizar, editar e excluir livros.
 
-Endpoints
-GET /api/livros
+<h2><b>🔖 Endpoints </b></h2>
+
+<b>GET /api/livros</b>
 Lista todos os livros.
 
-GET /api/livros/{id}
+<b>GET /api/livros/{id}</b>
 Obtém um livro pelo ID.
 
-POST /api/livros
+<b>POST /api/livros</b>
 Adiciona um novo livro.
 
-PUT /api/livros/{id}
+<b>PUT /api/livros/{id}</b>
 Atualiza um livro existente.
 
-DELETE /api/livros/{id}
+<b>DELETE /api/livros/{id}</b>
 Remove um livro pelo ID.
 
 ![image](https://github.com/user-attachments/assets/cadcf804-5317-4e24-bdb7-d1c873a8a005)
